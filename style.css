@@ -1,0 +1,82 @@
+header{
+    background-color: rgb(27, 25, 25);
+    height: 10vh;
+    color: white;
+    text-align: center;
+    font-size:60px;
+    padding-top: 1vh;
+    margin-bottom: 2vh;
+}
+.sgn{
+    justify-content: space-around;
+    display: flex;
+    /* justify-content: center; */
+    padding: 0px 300px;
+    margin-left: 40px;
+    border-radius: 10px;
+    width: 800px;
+    background-color: pink;
+    height: 30vh;
+    align-items: center;
+}
+
+.score{
+    width: 50vw;
+    height: 20vh;
+    margin-top: 1vh;
+    margin-left: 300px;
+    background-color: rgb(246, 158, 173);
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 20px;
+    border-radius: 10px;
+}
+.bx{
+    
+    background-color: blanchedalmond;
+    width: 200px;
+    height: 180px;
+    border-radius: 10%;
+    font-size: 60px;
+    text-align: center;
+}
+.cx{
+    
+    background-color: blanchedalmond;
+    width: 200px;
+    height: 180px;
+    border-radius: 10%;
+    font-size: 60px;
+    text-align: center;
+}
+.pg{
+    
+    font-size:large;
+}
+.rslt{
+    width: 50vw;
+    height: 20vh;
+    background-color: rgb(245, 199, 199);
+    font-size: 45px;
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 6px;
+    margin-left: 300px;
+    border-radius: 8px;
+    color: rgb(130, 10, 10);
+}
+.d1{
+    border-radius: 50%;
+    background-color: antiquewhite;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+}
+.d1:hover{
+    cursor: pointer;
+    
+    background-color: azure;
+}
